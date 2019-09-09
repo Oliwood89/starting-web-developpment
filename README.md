@@ -4,6 +4,6 @@ Petit exercice consistant à réaliser une one-page en HTML/CSS sur Tim Berners 
 
 Voici ce que l'on devait reproduire :
 
-<img src = "http://zupimages.net/viewer.php?id=19/37/a2n8.png" alt = "site-timbernerslee">
+<img src = "https://image.noelshack.com/fichiers/2019/37/1/1568019322-goal-css.png" alt = "site-timbernerslee">
 
 Voici le résultat réalisé par moi : https://oliwood89.github.io/starting-web-developpment/
